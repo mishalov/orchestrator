@@ -1,0 +1,14 @@
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\bin\Debug\netcoreapp2.2\Orchestrator.deps.json
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\bin\Debug\netcoreapp2.2\Orchestrator.runtimeconfig.json
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\bin\Debug\netcoreapp2.2\Orchestrator.runtimeconfig.dev.json
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\bin\Debug\netcoreapp2.2\Orchestrator.dll
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\bin\Debug\netcoreapp2.2\Orchestrator.pdb
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\obj\Debug\netcoreapp2.2\Orchestrator.csprojAssemblyReference.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\obj\Debug\netcoreapp2.2\Orchestrator.csproj.CoreCompileInputs.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\obj\Debug\netcoreapp2.2\Orchestrator.RazorAssemblyInfo.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\obj\Debug\netcoreapp2.2\Orchestrator.RazorAssemblyInfo.cs
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\obj\Debug\netcoreapp2.2\Orchestrator.AssemblyInfoInputs.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\obj\Debug\netcoreapp2.2\Orchestrator.AssemblyInfo.cs
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\obj\Debug\netcoreapp2.2\Orchestrator.RazorTargetAssemblyInfo.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\obj\Debug\netcoreapp2.2\Orchestrator.dll
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\Orchestrator\Orchestrator\obj\Debug\netcoreapp2.2\Orchestrator.pdb
