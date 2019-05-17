@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace nodeManager
+namespace Orchestrator
 {
     public static class FileWorker
     {
@@ -19,6 +19,11 @@ namespace nodeManager
             foreach (string newPath in Directory.GetFiles(From, "*.*",
                 SearchOption.AllDirectories))
                 File.Copy(newPath, newPath.Replace(From, To), true);
+        }
+
+        public static string makeDirectoryName(string Id, string UserId)
+        {
+            return $"/home/orchestrator/app/{UserId}/{Id}";
         }
     }
 }

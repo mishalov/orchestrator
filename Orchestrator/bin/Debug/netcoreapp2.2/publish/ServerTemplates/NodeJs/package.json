@@ -1,0 +1,12 @@
+{
+  "name": "NodeJs",
+  "version": "1.0.0",
+  "description": "Server template for serving Node Js programms",
+  "main": "server.js",
+  "author": "Mishalov Evgenii",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
